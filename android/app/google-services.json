@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190895725476",
+    "project_id": "flutter-phone-verificati-f93ff",
+    "storage_bucket": "flutter-phone-verificati-f93ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190895725476:android:c671eda2c06a97eb72bf31",
+        "android_client_info": {
+          "package_name": "com.phone_verification_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190895725476-687mp48k2rdo36cfpgmt7k6k1jmn5mrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt_rb67dGKHVzvNzq7-62WGh_CdLwaY0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190895725476-687mp48k2rdo36cfpgmt7k6k1jmn5mrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
